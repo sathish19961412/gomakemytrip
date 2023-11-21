@@ -1,0 +1,196 @@
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 25/03/2016 09:21
+  */
+.updated.redux-notice.is-dismissible{
+	display: none!important;
+}
+@font-face {
+	font-family: "Flaticon";
+	src:         url("../fonts/Flaticon.eot");
+	src:         url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+				 url("../fonts/Flaticon.woff") format("woff"),
+				 url("../fonts/Flaticon.ttf") format("truetype"),
+				 url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	font-weight: normal;
+	font-style:  normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+	@font-face {
+		font-family: "Flaticon";
+		src:         url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	}
+}
+
+[class*="flaticon-"] {
+	font-family: Flaticon;
+	font-size:   20px;
+	font-style:  normal;
+}
+
+.flaticon-airplane:before {
+	content: "\f100";
+}
+
+.flaticon-airplane-1:before {
+	content: "\f101";
+}
+
+.flaticon-airplane-2:before {
+	content: "\f102";
+}
+
+.flaticon-airplane-3:before {
+	content: "\f103";
+}
+
+.flaticon-airplane-4:before {
+	content: "\f104";
+}
+
+.flaticon-balloon:before {
+	content: "\f105";
+}
+
+.flaticon-business:before {
+	content: "\f106";
+}
+
+.flaticon-cart:before {
+	content: "\f107";
+}
+
+.flaticon-cart-1:before {
+	content: "\f108";
+}
+
+.flaticon-globe:before {
+	content: "\f109";
+}
+
+.flaticon-hotel:before {
+	content: "\f10a";
+}
+
+.flaticon-island:before {
+	content: "\f10b";
+}
+
+.flaticon-map:before {
+	content: "\f10c";
+}
+
+.flaticon-map-1:before {
+	content: "\f10d";
+}
+
+.flaticon-money:before {
+	content: "\f10e";
+}
+
+.flaticon-people:before {
+	content: "\f10f";
+}
+
+.flaticon-plans:before {
+	content: "\f110";
+}
+
+.flaticon-road:before {
+	content: "\f111";
+}
+
+.flaticon-road-1:before {
+	content: "\f112";
+}
+
+.flaticon-road-2:before {
+	content: "\f113";
+}
+
+.flaticon-sand:before {
+	content: "\f114";
+}
+
+.flaticon-ship:before {
+	content: "\f115";
+}
+
+.flaticon-shipping:before {
+	content: "\f116";
+}
+
+.flaticon-skyscraper:before {
+	content: "\f117";
+}
+
+.flaticon-suitcase:before {
+	content: "\f118";
+}
+
+.flaticon-ticket:before {
+	content: "\f119";
+}
+
+.flaticon-transport:before {
+	content: "\f11a";
+}
+
+.flaticon-transport-1:before {
+	content: "\f11b";
+}
+
+.flaticon-transport-2:before {
+	content: "\f11c";
+}
+
+.flaticon-transport-3:before {
+	content: "\f11d";
+}
+
+.flaticon-transport-4:before {
+	content: "\f11e";
+}
+
+.flaticon-transport-5:before {
+	content: "\f11f";
+}
+
+.flaticon-transport-6:before {
+	content: "\f120";
+}
+
+.flaticon-travel:before {
+	content: "\f121";
+}
+
+.flaticon-travel-1:before {
+	content: "\f122";
+}
+
+.flaticon-travel-2:before {
+	content: "\f123";
+}
+
+.flaticon-travelling:before {
+	content: "\f124";
+}
+
+.flaticon-yacht:before {
+	content: "\f125";
+}
+
+.redux-field-info, .redux-group-tab > h2 {
+	padding:     10px 15px;
+	font-weight: 600;
+	font-size:   16px;
+	background:  #f3f3f3;
+	margin-top:  0;
+	box-shadow:  0 0 0;
+	border:      1px solid #E7E7E7;
+}
+
+.redux-field-info {
+	border-top: none;
+}
